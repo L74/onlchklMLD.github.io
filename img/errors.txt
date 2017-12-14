@@ -1,0 +1,5 @@
+[2017-12-01 16:04:39] layer "User Male@2x.png копия": Expected end of input but "\u043A" found.
+[2017-12-01 16:04:39] layer "User Male@2x.png копия 2": Expected end of input but "\u043A" found.
+[2017-12-01 16:04:38] layer "эл. почта leila-m2005@yandex.ru": Unsupported extension: ru
+[2017-12-01 16:04:39] layer "+Добавить участника": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2017-12-01 16:04:39] layer "User Male@2x.png": Duplicate path: User Male@2x.png

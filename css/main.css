@@ -1,0 +1,108 @@
+body {
+	font-family: Arial; sans-serif;
+	padding: 0;
+	margin: 0;
+	color: fdf8f8;
+}
+
+.clearfix: after {
+		content: '';
+		display: table;
+		width: 100%:
+		clear: both;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+header {
+	background: url(../img/logo1.png); no-repeat center top / cover;
+	height: 46px;
+	
+}
+
+.container {
+	width: 980px; 
+	margin:0; auto;
+
+}
+
+.logo {
+		float: left;
+		margin-top: 10px;  
+}
+
+nav {
+	float; right;
+	float: left;
+	margin-top: 15px;
+}
+
+.menu {
+	padding: -10px;
+	margin: 0;
+	display: block;
+}
+
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 10px;
+}
+
+.menu a {
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+.titles__first {
+	background: url(../img/1ikran.png); no-repeat center top / cover;
+	height: 390px;
+	font-size: 60px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: -382px;
+}
+
+h1 {
+	font-size: 60px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.button {
+	background: ff0000;
+	color: #fff;
+	border-radius: 3px;
+	display: block;
+	width: 220px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.title {
+		padding-top: 75px;
+}
+
+.title h2 {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.title p {
+	color: #fff;
+	text-align: center;
+	font-size: 30px;
+	margin-top: 5px;
+}
